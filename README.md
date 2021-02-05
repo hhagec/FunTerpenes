@@ -3,11 +3,11 @@ Identification of terpene synthases genes in fungal genomes
 
 Genome mining for terpene synthases in fungi is limited by the low sequence similarity between plant and microbial enzymes outside the metal binding motifs [D(D/E/N)XX(D/E)] and NSE/DTE. The conserved suites of amino acids (Hidden Markov Models; HMM profiles) classified in the Pfam database, primarily built from plant terpene synthases have shown limited success for fungal genome mining. Here, we provide robust HMM models for the identification of sesquiterpene synthases genes in fungal genomes and the prediction of their cyclisation mechanisms.
 
-"STS are classified into 4 clades based on their cyclization mechanism:
-clade 1 STS catalyze the 1,10-cyclization of (2E,6E)-FPP carbocation, 
+STS are classified into 4 clades based on their cyclization mechanism:
+clade 1 STS catalyze the 1,10-cyclization of (2E,6E)-FPP carbocation; 
 clade 2 STS catalyze the 1,10-cyclization of the (3R)-NPP carbocation; 
-clade 3 STS catalyze the 1,11 cyclization of (2E,6E)-FPP carbocation (trans-humulyl-type cyclases) 
-clade 4 STS catalyze the 1,6 or 1,7 cyclization of the (3R)-NPP carbocation."
+clade 3 STS catalyze the 1,11 cyclization of (2E,6E)-FPP carbocation (trans-humulyl-type cyclases); 
+clade 4 STS catalyze the 1,6 or 1,7 cyclization of the (3R)-NPP carbocation.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
