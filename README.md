@@ -16,7 +16,7 @@ This method will allow you to identify STS genes in your fungal genomes of inter
 > python TS_detection.py -m all-clades-HMM.hmm -d example/sequences.pro -t example/taxonomy_all_fungi.csv  -p example/pfam_results.pf
 
 Input files:
-- all-clades-HMM.hmm : provided here
+- all-clades-HMM.hmm : file with robust HMMs constructed for each clade. The file is provided here. 
 - sequences.pro: a file that regroup all protein sequences of all fungi were you want to identify STS. ! Each sequence should be on a single line (you can use the script       one_line_seq.sh to arrange each sequence on a single line).  
 - taxonomy_all_fungi.csv: (facultative) file with taxonomy of fungal genomes whose sequences were included in the sequence.pro file. 
 - pfam_results.pf: (facultative) pfam result file to check if the identified STS were also identified as STS by pfam. 
