@@ -21,9 +21,8 @@ Input files:
 - taxonomy_all_fungi.csv: (facultative) file with taxonomy of fungal genomes whose sequences were included in the sequence.pro file. 
 - pfam_results.pf: (facultative) pfam result file to check if the identified STS were also identified as STS by pfam. 
 
-NB: 
-- The file taxonomy_all_fungi.csv provided here contains informations about 1420 fungal genomes. You can use this file for your analysis if your genomes of interest are included in it. If they are not included you will need to add the taxonomy infos of your genomes to this file. 
-- The files 
+NB: The file taxonomy_all_fungi.csv provided in the example folder contains informations about 1420 fungal genomes. You can use this file for your analysis if your genomes of interest are included in it. If they are not included you will need to add the taxonomy infos of your genomes to this file. 
+The files sequences.pro and pfam_results.pf provided in the example folder coutain informations from random genomes. You will need to create your own files with informations from your own genomes. 
 
 Output files:
 - Hmm_search_res.csv: HMMsearch output with all STS found 
